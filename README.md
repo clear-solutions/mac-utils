@@ -54,7 +54,7 @@ fi
 1. Open Terminal.
 2. Create a new script file:
    ```bash
-   nano cpu_temp_monitor.sh
+   touch cpu_temp_monitor.sh
    ```
 3. Paste the script content into the file.
 4. Save and exit (`Ctrl+X`, then `Y`, then `Enter`).
