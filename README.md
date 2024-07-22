@@ -75,7 +75,7 @@ To run the script at regular intervals, use `cron`:
    ```
 2. Add a new cron job to run the script every minute:
    ```bash
-   * * * * * /path/to/cpu_temp_monitor.sh
+*/1 * * * * /path/to/cpu_temp_monitor.sh
    ```
 
 Replace `/path/to/cpu_temp_monitor.sh` with the actual path to your script.
